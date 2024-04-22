@@ -10,7 +10,7 @@ Bu proje, Unity 3D ve C# programlama dili kullanılarak serious game temel alın
 - VR gözlük(META QUEST PRO-VR HEADSET gözlüğüyle test edilmiştir)
 
 ## Dip Not
-- Gizlilik ve güvenlik nedeniyle oyunun kodları paylaşılamamaktadır.
+- Şirketin gizlilik ve güvenlik prosedürü nedeniyle oyunun kodları paylaşılamamaktadır.
 - Oyunun tanıtım videosuna buradan ulaşabilirsiniz.
 <div align="center">
    <a href="https://github.com/zeynoaydn/vrgamem/raw/main/vrvideo.mp4">Video İçin Buraya Tıklayınız</a>
