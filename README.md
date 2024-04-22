@@ -9,7 +9,7 @@ Bu proje, Unity ve C# programlama dili kullanılarak serious game temel alınara
 - Unity 3D (Proje Unity 2021.3.30f1 sürümüyle test edilmiştir)
 - VR gözlük(META QUEST PRO-VR HEADSET gözlüğüyle test edilmiştir)
 
-## Dİp Not
+## Dip Not
 - Gizlilik ve güvenlik nedeniyle oyunun kodları paylaşılamamaktadır.
 - Oyunun tanıtım videosuna buradan ulaşabilirsiniz
 <div align="center">
