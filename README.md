@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-Bu proje, Unity ve C# programlama dili kullanılarak serious game temel alınarak yapılmış bir VR egzersiz oyunudur. Oyun, sanal gerçeklik gözlüğü (VR) kullanılarak oynanabilir ve oyuncuların eğlenceli bir şekilde egzersiz yapmalarına olanak tanır.
+Bu proje, Unity 3D ve C# programlama dili kullanılarak serious game temel alınarak yapılmış bir VR egzersiz oyunudur. Oyun, sanal gerçeklik gözlüğü (VR) kullanılarak oynanabilir ve oyuncuların eğlenceli bir şekilde egzersiz yapmalarına olanak tanır.
 
 ## Gereksinimler
 
