@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-Bu proje, Unity 3D ve C# programlama dili kullanılarak serious game temel alınarak yapılmış bir VR egzersiz oyunudur. Oyun, sanal gerçeklik gözlüğü (VR) kullanılarak oynanabilir ve 70 yaş üstü bireylerin baş-boyun,uzanma,bulmaca egzersizlerini eğitici bir şekilde yapmalarına olanak tanır.
+Bu proje, Unity 3D ve C# programlama dili kullanılarak serious game temel alınarak yapılmış bir VR egzersiz oyunudur. Oyun 70 yaş ve üstü bireylerin baş-boyun, uzanma ve bulmaca egzersizlerini eğitici bir şekilde yapmalarına olanak sağlar.
 
 ## Gereksinimler
 
