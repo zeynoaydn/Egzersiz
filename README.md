@@ -13,7 +13,7 @@ Bu proje, Unity ve C# programlama dili kullanılarak serious game temel alınara
 - Gizlilik ve güvenlik nedeniyle oyunun kodları paylaşılamamaktadır.
 - Oyunun tanıtım videosuna buradan ulaşabilirsiniz
 <div align="center">
-   <a href=" https://github.com/zeynoaydn/vrgamem/blob/main/vrvideo.mp4">Video İçin Buraya Tıklayınız</a>
+   <a href="https://github.com/zeynoaydn/vrgamem/raw/main/vrvideo.mp4">Video İçin Buraya Tıklayınız</a>
 </div>
 
 ## Görseller
