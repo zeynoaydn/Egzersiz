@@ -16,6 +16,20 @@ Bu proje, Unity 3D ve C# programlama dili kullanılarak serious game temel alın
    <a href="https://github.com/zeynoaydn/vrgamem/raw/main/vrvideo.mp4">Video İçin Buraya Tıklayınız</a>
 </div>
 
+# Unity VR Exercise Game
+
+## About the Project
+
+This project is a VR exercise game based on serious game using Unity 3D and C# programming language. The game allows individuals aged 70 and over to perform head and neck, lying down and puzzle exercises in an educational way.
+
+## Requirements
+
+- Unity 3D (Project tested with Unity version 2021.3.30f1)
+- VR glasses (tested with META QUEST PRO-VR HEADSET glasses)
+
+## Note
+- DUE TO THE COMPANY'S CONFIDENTIALITY AND SECURITY PROCEDURES, THE GAME CODES CANNOT BE SHARED.
+
 ## Görseller
 <div align="center">
    <img src="https://github.com/zeynoaydn/vrgamem/blob/main/gamem1.jpeg" width="auto">
@@ -27,6 +41,6 @@ Bu proje, Unity 3D ve C# programlama dili kullanılarak serious game temel alın
    <img src="https://github.com/zeynoaydn/vrgamem/blob/main/gamem7.jpeg" width="auto">
 </div>
   
- 
+
  
 
